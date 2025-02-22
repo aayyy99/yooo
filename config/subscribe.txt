@@ -15,3 +15,7 @@ https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
 https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv6.txt
+https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt
+https://raw.bgithub.xyz/wwb521/live/refs/heads/main/tv.txt
+https://live.kilvn.com/iptv.m3u
